@@ -8,4 +8,4 @@ puts  "   |   |   "
 
 end
 
-display_board
+prints display_board
